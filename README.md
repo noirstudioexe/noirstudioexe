@@ -14,6 +14,9 @@ exploring web development, software & the occasional side project.
 
 **[noir studio](https://github.com/noirstudioexe/noir-studio)** — discord design, development & creative projects.
 
+**[noir studio website](https://noirstudioexe.github.io/noir-studio-website/)** — a responsive, multi-page website built with HTML & CSS.
+
+
 ### elsewhere
 
 discord · fiverr · upwork · here
