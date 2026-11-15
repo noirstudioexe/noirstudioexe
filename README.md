@@ -1,9 +1,8 @@
 # hey, i'm sam.
 
-*design, development & everything in between.*
+*learning to code. building things along the way.*
 
-a little creative, a little technical.  
-mostly just building things I find interesting.
+exploring web development, software & the occasional side project.
 
 ### currently
 
