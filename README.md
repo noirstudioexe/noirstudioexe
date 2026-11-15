@@ -1,16 +1,24 @@
-## Hi there 👋
+# hey, i'm sam.
 
-<!--
-**noirstudioexe/noirstudioexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*design, development & everything in between.*
 
-Here are some ideas to get you started:
+a little creative, a little technical.  
+mostly just building things I find interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+
+- working on **noir studio**
+- designing discord communities & digital experiences
+- exploring new tools, technologies & creative ideas
+
+### projects
+
+**[noir studio](https://github.com/noirstudioexe/noir-studio)** — discord design, development & creative projects.
+
+### elsewhere
+
+discord · fiverr · occasionally here
+
+---
+
+*always a work in progress.*
