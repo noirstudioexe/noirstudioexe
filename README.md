@@ -16,7 +16,7 @@ exploring web development, software & the occasional side project.
 
 ### elsewhere
 
-discord · fiverr · occasionally here
+discord · fiverr · upwork · here
 
 ---
 
